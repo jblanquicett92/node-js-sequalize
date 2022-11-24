@@ -1,0 +1,36 @@
+-- Configurando el ambiente de desarrollo
+
+Crear repositorio github
+Instalar Docker
+Instalar plugin vs-code remote explorer
+Clonar repo en contenedor remoto
+
+-- Diferencias entre el desarrollo con Node y Express
+
+- Categorización
+Node.js se incluye principalmente en la categoría Frameworks (Full Stack).
+Express.js se clasifica en la categoría Microframeworks (Backend).
+Bloque de construcción
+Node.js se basa en el motor V8 de Google.
+Express.js se basa en Node.js.
+
+- Características
+Node.js tiene menos funciones que Express.js.
+Express.js incorpora más funciones, ya que es una adición a las funcionalidades de Node js. 
+
+- Uso
+Node.js se utiliza para crear aplicaciones controladas por eventos, E/S del lado del servidor.
+Express.js utiliza enfoques de Node.js para crear aplicaciones web y API.
+
+- Dependencia
+Node.js se puede utilizar independientemente de Express.js.
+Express.js requiere Node.js.
+
+- Tiempo
+Node.js demanda más tiempo debido a tareas multifacéticas que requieren más líneas de código y, por lo tanto, más tiempo. 
+Express.js requiere menos tiempo porque se puede escribir en menos líneas y en pocos minutos.
+
+
+-- Verbos http recurso
+https://gautambiztalkblog.files.wordpress.com/2015/03/crud.jpg
+http://patriciaemiguel.com/assets/2021-02-24-verbos-http.png

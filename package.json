@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jblanquicett92/node-js-sequalize/issues"
   },
-  "homepage": "https://github.com/jblanquicett92/node-js-sequalize#readme"
+  "homepage": "https://github.com/jblanquicett92/node-js-sequalize#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
